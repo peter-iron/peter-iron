@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @peter-iron
+- I have experience with Julia, Python, R, MATLAB, some C, and web languages / some devops interfaces.
+- I work as a Data Scientist at IronNet.
